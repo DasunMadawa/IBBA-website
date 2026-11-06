@@ -1,0 +1,22 @@
+{
+  "exportedAt": "2026-11-03T17:36:59.331Z",
+  "counts": {
+    "members": 27,
+    "news": 0,
+    "categories": 0,
+    "media": 3,
+    "meeting_minutes": 1,
+    "events": 9,
+    "managed_study_circles": 0,
+    "database_legacy_routes": 0
+  },
+  "excludes": [
+    "existing users",
+    "staff accounts",
+    "passwords",
+    "sessions",
+    "private contact inquiries",
+    "drafts"
+  ],
+  "note": "Static archives, regional meetings and individual members are included in source rather than these row counts."
+}

@@ -1,0 +1,14 @@
+{
+  "changed": [
+    {
+      "file": "client/src/data/legacyArchive.generated.ts",
+      "replacements": 1039
+    },
+    {
+      "file": "client/src/data/siteContent.ts",
+      "replacements": 1
+    }
+  ],
+  "unresolvedOldMediaUrls": [],
+  "note": "Only package media URL substrings changed. Text, dates, names, public sources and original staged source remain unchanged. Known resized images reference the identical bundled original photograph; third-party links remain external."
+}
