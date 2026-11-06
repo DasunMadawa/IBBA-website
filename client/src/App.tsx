@@ -8,6 +8,7 @@ import { SiteShell } from "./components/site/SiteShell";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 
+
 const AdminNewsPage = lazy(() => import("./pages/AdminPublishingPages").then(module => ({ default: module.AdminNewsPage })));
 const AdminEventsPage = lazy(() => import("./pages/AdminPublishingPages").then(module => ({ default: module.AdminEventsPage })));
 const AdminAccountPage = lazy(() => import("./pages/AdminAccountPage"));
